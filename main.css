@@ -8,9 +8,11 @@ html, body {
 h1 {
     font-size: 48px;
     color: red;
+    text-align: center;
 }
 
 p {
     max-width: 65%;
-    color: #d3d3d3;
 }
+.paragrafo {color: blue;}
+#pincopallino {color:red;}
