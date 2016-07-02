@@ -1,5 +1,5 @@
 .main {
-  background-image: url("http://www.localwom.com/i/vintage-pattern-hd-resolution-wallpapers.jpg");
+  background-image: url("notte.jpg");
   background-size: cover;
   color: white;
   text-align: center;
@@ -17,7 +17,7 @@ h1 {
     font-family: helvetica,sans-serif;
 }
 
-.paragrafo {color: black;}
+.paragrafo {color: white;}
 #pincopallino {color:red;}
 
 .banner {
