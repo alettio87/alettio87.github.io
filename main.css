@@ -1,18 +1,26 @@
+.main {
+  background-image: url("http://www.localwom.com/i/vintage-pattern-hd-resolution-wallpapers.jpg");
+  background-size: cover;
+  color: white;
+  text-align: center;
+ }
+
 html, body {
-    font-family: sans-serif;
     margin: 50;
     width: 100%;
     height: 100%;
 }
 
 h1 {
-    font-size: 48px;
-    color: red;
-    text-align: center;
+    font-size: 60px;
+    color: white;
+    font-family: helvetica,sans-serif;
 }
 
-p {
-    max-width: 65%;
-}
-.paragrafo {color: blue;}
+.paragrafo {color: black;}
 #pincopallino {color:red;}
+
+.banner {
+  font-family: helvetica,sans-serif;
+  ;
+}
